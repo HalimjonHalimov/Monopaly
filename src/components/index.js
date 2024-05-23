@@ -1,5 +1,9 @@
 export { default as DefaultBtn } from "./Button/DefaultBtn";
+export { default as GradientBtn } from "./Button/GradientBtn";
 export { default as Header } from "./Header/Header";
 export { default as Container } from "./Container/Container";
 export { default as MainContent } from "./Content/MainContent";
+export { default as MultifForm } from "./MultiForm/MultifForm";
+export { default as Input } from "./Input/Input";
+export { default as AuthProvder } from "./AuthProvider/AuthProvider";
 // export { default as  } from "./";
